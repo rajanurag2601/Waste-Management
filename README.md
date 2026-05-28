@@ -1,7 +1,7 @@
 # Decentralized Accountability: IoT Waste Management Simulation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx) 
-*(Note: Replace the link above with your actual Zenodo DOI badge once generated)*
+https://doi.org/10.5281/zenodo.20422794 
+
 
 ## Overview
 This repository contains the Python-based discrete-event simulation code for the research paper **"Decentralized Accountability: A Low-Cost IoT Framework for Municipal Solid Waste Management in High-Density Informal Settlements"**. 
